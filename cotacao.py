@@ -19,7 +19,7 @@ for par in pares:
   if response.status_code == 404 and '-' in par:
     base, quote = par.split('-')
     par_invertido = f"{quote}-{base}"
-    print(f"tentando inverter para: {par_invertido}")
+    print('\n',f"tentando inverter para: {par_invertido}")
     url = f"https://economia.awesomeapi.com.br/json/last/{par_invertido}"
     response = requests.get(url)
     par = par_invertido
