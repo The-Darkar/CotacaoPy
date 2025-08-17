@@ -20,3 +20,4 @@ O usuário informa os pares desejados (por exemplo: `usd-brl,usd-jpy`), e o prog
    ```bash
    git clone https://github.com/The-Darkar/currency-rate-checker.git
    cd currency-rate-checker
+.
