@@ -18,5 +18,5 @@ O usuário informa os pares desejados (por exemplo: `usd-brl,usd-jpy`), e o prog
 ## ▶️ Como usar
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/<seu-usuario>/currency-rate-checker.git
+   git clone https://github.com/The-Darkar/currency-rate-checker.git
    cd currency-rate-checker
